@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhishek.aggarwal836@gmail.com**
 
-- 📄 Know about my experiences [https://abhishek-x.github.io/](https://abhishek-x.github.io/)
+- 📄 Know about my experiences [https://abhishek-aggarwal.netlify.app](https://abhishek-aggarwal.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
