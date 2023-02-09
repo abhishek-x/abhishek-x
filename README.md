@@ -17,7 +17,11 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
@@ -53,6 +57,8 @@
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
+
+</td></tr></table>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek-x&show_icons=true&theme=gotham" alt="github stats" width="48%" align="left"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-x&theme=dark" width="48%" align="right">
