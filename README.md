@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-x&show_icons=true&locale=en" alt="abhishek-x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-x&" alt="abhishek-x" /></p>
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-x&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
