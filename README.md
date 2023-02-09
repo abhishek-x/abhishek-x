@@ -8,8 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **abhishek.aggarwal836@gmail.com**
-- 📄 Know about my experiences [https://abhishek-aggarwal.netlify.app](https://abhishek-aggarwal.netlify.app) 
+- 📫 Reach me at abhishek.aggarwal836@gmail.com
+- 📄 Check out my [Portfolio](https://abhishek-aggarwal.netlify.app) 
+- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/abhishek-aggarwal-dev/) 
+- 📍 Chandigarh, India
 
 
 ## Profile Stats
