@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Abhishek Aggarwal</h1>
 <h3 align="center">Innovative and Creative Web Designer, Creating websites with best personal interest and equipped with best UI/UX practices and all modern tools and frameworks to deliver highly efficient websites with smooth experience.</h3>
 
