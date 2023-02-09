@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://abhishek-aggarwal.netlify.app](https://abhishek-aggarwal.netlify.app)
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
