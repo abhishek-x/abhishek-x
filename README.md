@@ -28,6 +28,8 @@ const abhishek = {
 <h2>Repositories</h2>
 
 <p>
+  <a href="https://github.com/abhishek-x/web-carbon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=web-carbon&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/learnify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=learnify&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/deepfake-lab">
