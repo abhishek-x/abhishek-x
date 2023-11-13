@@ -1,8 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+![Header](./github.webp)
 
-<h1 align="center">Hi 👋, I'm Abhishek Aggarwal 👨🏻‍💻</h1>
 <h2>Highly motivated and results-oriented software developer with experience in software development and machine learning algorithms. Proficient in multiple programming languages, frameworks, and technologies, demonstrated in previous experience and research work. Seeking to leverage my skills and passion for technology to drive impactful results and contribute to the growth and success of an organization.</h2>
 
 
@@ -10,4 +7,4 @@
 
 - 📫 Reach me at abhishek.aggarwal836@gmail.com
 - 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/abhishekaggarwaldev/) 
-- 📍 Chandigarh, India
+- 📍 India
