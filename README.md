@@ -40,8 +40,6 @@ const abhishek = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=exoplanet-detection-keplar-telescope-data&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/connectly-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=connectly-api&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
-  <a href="https://github.com/abhishek-x/network-programming-in-c-language">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=network-programming-in-c-language&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <h2>Connect with me</h2>
