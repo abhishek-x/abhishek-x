@@ -25,21 +25,30 @@ const abhishek = {
 }
 ```
 
-<h2>Repositories</h2>
+<h2>Web Development Repositories</h2>
 
 <p>
   <a href="https://github.com/abhishek-x/web-carbon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=web-carbon&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
-  <a href="https://github.com/abhishek-x/TickerTalksAI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=TickerTalksAI&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/learnify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=learnify&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
+  <a href="https://github.com/abhishek-x/connectly-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=connectly-api&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
+  <a href="https://github.com/abhishek-x/diffuse-ecommerce-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=diffuse-ecommerce-frontend&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
+</p>
+
+<h2>Machine Learning Repositories</h2>
+
+<p>
+  <a href="https://github.com/abhishek-x/TickerTalksAI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=TickerTalksAI&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/deepfake-lab">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=deepfake-lab&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
   <a href="https://github.com/abhishek-x/exoplanet-detection-keplar-telescope-data">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=exoplanet-detection-keplar-telescope-data&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
-  <a href="https://github.com/abhishek-x/connectly-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=connectly-api&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
+  <a href="https://github.com/abhishek-x/hierarchical_visualization_for_3D_model_from_2D_images">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-x&repo=hierarchical_visualization_for_3D_model_from_2D_images&theme=dark&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <h2>Connect with me</h2>
